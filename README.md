@@ -1,40 +1,55 @@
 # Hi, I'm Rabbia Lone 👋
 
-## 👩‍🎓 About Me
+## About Me
 
-I'm a Business Analytics student passionate about data, technology, and solving business problems through analytics.
+I hold a Bachelor's degree in Mathematics and have a strong interest in Business Analytics, Data Analytics, Business Intelligence, and Web Development. I enjoy solving real-world business problems through data and continuously expanding my technical skills.
 
-### 🌱 Currently Learning
-- Python
+---
+
+## Career Objective
+
+I'm building a professional portfolio in Business Analytics and continuously improving my analytical and technical skills to contribute to data-driven decision-making.
+
+---
+
+## Technical Skills
+
 - SQL
-- Power BI
-- Git & GitHub
-- HTML, CSS & JavaScript
-
-### 🎯 Career Goal
-To become a Business Analyst and build data-driven solutions that help organizations make better decisions.
-
-### 🛠 Skills
-- Python
-- SQL
-- Power BI
 - Microsoft Excel
+- Power BI
 - HTML
 - CSS
 - JavaScript
 - Git
 - GitHub
 
-### 📌 Current Projects
-- Business Analytics Portfolio
-- Python Practice
-- SQL Practice
-- Power BI Dashboards
+---
 
-### 📫 Contact
+## Other Skills
+
+- Data Analysis
+- Business Analytics
+- Data Visualization
+- Digital Marketing
+- Canva
+
+---
+
+## Current Focus
+
+- Building Business Analytics projects
+- Creating Power BI dashboards
+- Practicing SQL
+- Developing web projects
+- Strengthening Git & GitHub skills
+
+---
+
+## Connect With Me
+
 📧 Email: rabizzlone@gmail.com
 
-Thanks for visiting my GitHub profile! ⭐
+Thank you for visiting my GitHub profile!
 
 <!--
 **rj-lone/rj-lone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
